@@ -49,7 +49,7 @@
         }
 
         .page1 {
-            background-image: url(chicken.jpg);
+            background-image: url(../img/chicken.jpg);
             background-repeat: no-repeat;
             background-position: center;
             background-size: cover;
@@ -149,7 +149,7 @@
         }
 
         .main3 {
-            background-image: url(ayam3.jpg);
+            background-image: url(../img/ayam3.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center;
@@ -182,4 +182,5 @@
         }
         .ayamtes{
             font-weight: bold;
+
         }
